@@ -1,2 +1,3 @@
 README-checkpoint.md
-.gitignore-checkpoint*
+*-checkpoint*
+data/raw
